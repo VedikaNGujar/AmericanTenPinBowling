@@ -1,0 +1,12 @@
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\bin\x64\Debug\net5.0\AmericanTenPinBowling.BL.deps.json
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\bin\x64\Debug\net5.0\AmericanTenPinBowling.BL.dll
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\bin\x64\Debug\net5.0\ref\AmericanTenPinBowling.BL.dll
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\bin\x64\Debug\net5.0\AmericanTenPinBowling.BL.pdb
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.csprojAssemblyReference.cache
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.AssemblyInfoInputs.cache
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.AssemblyInfo.cs
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.csproj.CoreCompileInputs.cache
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.dll
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\ref\AmericanTenPinBowling.BL.dll
+C:\poc\Test\AmericanTenPinBowling\AmericanTenPinBowling.BL\obj\x64\Debug\net5.0\AmericanTenPinBowling.BL.pdb
